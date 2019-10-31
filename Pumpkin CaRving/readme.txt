@@ -1,4 +1,4 @@
-We hope you enjoy this Halloween workshop. 
+We hope you enjoy this Halloween workshop. It should provide you with an introduction to using ggplot2 in R.
 Instructions are in the Pumpkin-CaRving.pdf file. 
 The file Pumpkin-CaRving.R contains all the R commands from the workshop.
 The data is in the file pumpkin.csv. 
